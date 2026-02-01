@@ -18,8 +18,6 @@ Ele tem como único objetivo fornecer links públicos de sites que sofreram algu
 
 Eu não influencio, não incentivo e não recomendo qualquer tipo de ataque, invasão, exploração ou atividade ilegal.
 
-Não sou responsável pelas ações que levaram aos incidentes mencionados.
-
 Os links aqui listados não devem ser usados para fins maliciosos.
 
 Este repositório não promove hacking, cybercrime ou qualquer atividade ilegal.
@@ -38,8 +36,6 @@ Its sole purpose is to provide public links to websites that have suffered some 
 ⚠️ Disclaimer:
 
 I do not influence, encourage, or recommend any kind of attack, intrusion, exploitation, or illegal activity.
-
-I am not responsible for the actions that led to the mentioned incidents.
 
 The links listed here must not be used for malicious purposes.
 
